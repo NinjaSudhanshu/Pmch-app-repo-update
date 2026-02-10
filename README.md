@@ -1,5 +1,3 @@
 to show the update modal in pmch app 
 
-edit the version number greater than your app 
-if app current  version is  1.1.4  , so on github write 1.1.5 
-then my update modal will be visible 
+jo version daali huyi hai av that is latest version jo approved hai play store and appstore wo daal do to modal show hoga kyu ki user ke phone me old version it will compare your latest version and new version login .
