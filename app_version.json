@@ -1,6 +1,6 @@
 {
-    "ios_latest_version": "1.0.12",
-    "android_latest_version":"1.0.12",
+    "ios_latest_version": "1.0.13",
+    "android_latest_version":"1.0.13",
     "force_update": true,
     "playstore_url": "https://play.google.com/store/apps/details?id=com.pmch.app",
     "appstore_url": "https://apps.apple.com/in/app/pmch/id6756570363"
